@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="_Salir" type="id">Salir</item>
+    <item name="Salir" type="id">salir</item>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">App Salud</string>
+    <string name="_Descripcion">Solicite sus citas médicas, descargue sus exámenes médicos y tenga a la mano su historia clínica</string>
+    <string name="_inscripcion">INSCRIPCIÓN</string>
+    <string name="_nombres">Nombres</string>
+    <string name="_apellidos">Apellidos</string>
+    <string name="_correo">Correo</string>
+    <string name="_genero">Género</string>
+    <string name="_femenino">Femenino</string>
+    <string name="_masculino">Masculino</string>
+    <string name="_notificaciones">Recibir notificaciones</string>
+    <string name="_enviar">ENVIAR</string>
+    <string name="_titulo">Sus datos son</string>
+    <string name="_fnombres">Nombres:</string>
+    <string name="_fapellidos">Apellidos:</string>
+    <string name="_infonombres">InfoNombres</string>
+    <string name="_infoapellidos">InfoApellidos</string>
+    <string name="_fcorreo">Correo:</string>
+    <string name="_fgenero">Género:</string>
+    <string name="_fnot">Notificaciones:</string>
+    <string name="_infocorreo">infoCorreo</string>
+    <string name="_infogenero">infoGenero</string>
+    <string name="_infonot">infoNot</string>
+    <string name="_salir">Salir</string>
+</resources>
